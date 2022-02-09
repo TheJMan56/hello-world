@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-09T13:09:29.822Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="eGEZ0EZNhVQvzqRRMpJE" version="16.5.3" type="github">
+<mxfile modified="2022-02-09T13:10:23.945Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="J7XJJ3IRCEJg0jfyVKMT" version="16.5.3" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
     <mxGraphModel dx="1198" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="bC9mAllne671p5dbn9rO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="70" width="630" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="bC9mAllne671p5dbn9rO-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="35" y="284" width="50" height="110" as="geometry" />
+        <mxCell id="bC9mAllne671p5dbn9rO-5" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="35" y="50" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bC9mAllne671p5dbn9rO-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="782" y="284" width="50" height="110" as="geometry" />
