@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-09T20:06:02.773Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="aIBKHeeGMJEfvAQ5JKua" version="16.5.3" type="github">
+<mxfile modified="2022-02-09T20:07:03.106Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="KbTTrA-LsCOnzfW6Zbk-" version="16.5.3" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
     <mxGraphModel dx="1198" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
           <mxGeometry x="290" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-79" value="Assessment Types" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="450" width="150" height="180" as="geometry" />
+          <mxGeometry x="540" y="480" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-80" value="ACT, SAT, PSAT Scores" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-79">
           <mxGeometry y="30" width="150" height="30" as="geometry" />
@@ -130,6 +130,9 @@
             <mxPoint x="360" y="460" as="sourcePoint" />
             <mxPoint x="410" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-90" value="Aids in course selection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
