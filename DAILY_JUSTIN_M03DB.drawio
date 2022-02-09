@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-09T20:25:14.429Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="CZeHtadUOkO9iTu7pY2S" version="16.5.3" type="github">
+<mxfile modified="2022-02-09T20:27:55.820Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="5P414nmhS56I48aj5stq" version="16.5.3" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
     <mxGraphModel dx="1198" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,6 +188,12 @@
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-107" value="If financial aid is needed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="510" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-108" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="705" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-109" value="Meet with Advisor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
