@@ -1,11 +1,11 @@
-<mxfile modified="2022-02-09T20:10:36.755Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="dPQRMb2FBJjcvfcE4sp0" version="16.5.3" type="github">
+<mxfile modified="2022-02-09T20:16:12.305Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="0JGZN0_8CgTr2l05zgPC" version="16.5.3" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
     <mxGraphModel dx="1198" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bC9mAllne671p5dbn9rO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="70" width="710" height="980" as="geometry" />
+          <mxGeometry x="120" y="70" width="990" height="980" as="geometry" />
         </mxCell>
         <mxCell id="bC9mAllne671p5dbn9rO-5" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="225" width="50" height="110" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry x="290" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-79" value="Assessment Types" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="480" width="150" height="180" as="geometry" />
+          <mxGeometry x="890" y="450" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-80" value="ACT, SAT, PSAT Scores" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-79">
           <mxGeometry y="30" width="150" height="30" as="geometry" />
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-90" value="Aids in course selection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="450" width="160" height="30" as="geometry" />
+          <mxGeometry x="730" y="435" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-91" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="270" y="450" width="100" height="60" as="geometry" />
@@ -146,6 +146,39 @@
             <mxPoint x="220" y="415" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-95" value="Office of Financial Aid" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="505" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gSO6hqMrZtGCwGLNFeWU-91" target="gSO6hqMrZtGCwGLNFeWU-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="550" as="sourcePoint" />
+            <mxPoint x="445" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-97" value="Sent to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-98" value="Financial Aid Contact Information" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="495" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-99" value="Room 112" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-98">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-100" value="3501 First Avenue" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-98">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-101" value="Evansville, IN 47710-3398" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-98">
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-102" value="812-429-1434" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-98">
+          <mxGeometry y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-103" value="Fax: 812-429-9878" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-98">
+          <mxGeometry y="150" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-104" value="Fax: 812-429-9878" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-98">
+          <mxGeometry y="180" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
