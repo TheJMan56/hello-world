@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-09T20:21:58.426Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="qekB1T3oC-CFxz8EUE7m" version="16.5.3" type="github">
+<mxfile modified="2022-02-09T20:23:36.791Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="xUtlCbewbFCqmhPQ45dY" version="16.5.3" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
     <mxGraphModel dx="1198" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-90" value="Aids in course selection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="435" width="160" height="30" as="geometry" />
+          <mxGeometry x="730" y="450" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-91" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="270" y="450" width="100" height="60" as="geometry" />
@@ -185,6 +185,9 @@
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-106" value="Optional or Completed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-107" value="If financial aid is needed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="510" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
