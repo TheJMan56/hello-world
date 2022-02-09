@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-09T20:27:55.820Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="5P414nmhS56I48aj5stq" version="16.5.3" type="github">
+<mxfile modified="2022-02-09T20:30:24.933Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="hoNgPG4VXzYG-cg7BZ44" version="16.5.3" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
     <mxGraphModel dx="1198" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,6 +194,33 @@
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-109" value="Meet with Advisor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-110" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gSO6hqMrZtGCwGLNFeWU-108" target="bC9mAllne671p5dbn9rO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="625" as="sourcePoint" />
+            <mxPoint x="240" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-111" value="Optional or Completed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="570" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-112" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gSO6hqMrZtGCwGLNFeWU-108" target="gSO6hqMrZtGCwGLNFeWU-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="760" as="sourcePoint" />
+            <mxPoint x="470" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-113" value="Schedule an Appointment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="720" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-114" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-113">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-115" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-113">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-116" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gSO6hqMrZtGCwGLNFeWU-113">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
