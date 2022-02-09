@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-09T20:38:46.002Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="crznaRRzM2U-OeG2OJLB" version="16.5.3" type="github">
+<mxfile modified="2022-02-09T20:41:29.152Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="ihNPxevBdUsAaMZCc-0K" version="16.5.3" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
     <mxGraphModel dx="1198" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="120" y="70" width="990" height="980" as="geometry" />
         </mxCell>
         <mxCell id="bC9mAllne671p5dbn9rO-5" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="225" width="50" height="110" as="geometry" />
+          <mxGeometry x="10" y="225" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bC9mAllne671p5dbn9rO-13" value="Registrar" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="225" width="50" height="110" as="geometry" />
@@ -233,6 +233,21 @@
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-121" value="Handles Advising" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-122" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="890" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-123" value="New Student Orientation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="905" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-124" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-5" target="gSO6hqMrZtGCwGLNFeWU-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="790" as="sourcePoint" />
+            <mxPoint x="205" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSO6hqMrZtGCwGLNFeWU-125" value="RSVP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="820" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
