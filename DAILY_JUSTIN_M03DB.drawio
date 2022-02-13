@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-12T23:54:11.187Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="cpHgP50FlLZL9PEp6fTu" version="16.5.3" type="github">
+<mxfile modified="2022-02-13T00:22:51.339Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="rndQeKgUwgVxLjqsrHSw" version="16.5.3" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
     <mxGraphModel dx="1198" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-90" value="Aids in course selection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="730" y="450" width="160" height="30" as="geometry" />
+          <mxGeometry x="850" y="660" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gSO6hqMrZtGCwGLNFeWU-91" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="270" y="450" width="100" height="60" as="geometry" />
@@ -256,6 +256,30 @@
             <mxPoint x="170" y="575" as="sourcePoint" />
             <mxPoint x="220" y="525" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oLj53-ksACiD9NUbP3tG-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.007;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gSO6hqMrZtGCwGLNFeWU-113" target="gSO6hqMrZtGCwGLNFeWU-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="700" as="sourcePoint" />
+            <mxPoint x="880" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLj53-ksACiD9NUbP3tG-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.57;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gSO6hqMrZtGCwGLNFeWU-108" target="gSO6hqMrZtGCwGLNFeWU-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="630" as="sourcePoint" />
+            <mxPoint x="395" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLj53-ksACiD9NUbP3tG-9" value="Pays for Classes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oLj53-ksACiD9NUbP3tG-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gSO6hqMrZtGCwGLNFeWU-77" target="gSO6hqMrZtGCwGLNFeWU-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="360" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLj53-ksACiD9NUbP3tG-11" value="Also a Part of Assessment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
